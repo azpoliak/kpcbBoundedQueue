@@ -1,4 +1,5 @@
-Adam Poliak
+Simple BoundedQueu implementation with basic unit testing
+
 
 If you do not have junit 4 installed, then run: apt-get install junit
 
